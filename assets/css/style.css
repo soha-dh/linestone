@@ -1310,6 +1310,13 @@ section {
   margin: 0 0 10px 32px;
   font-family: 'Poppins', sans-serif;
 }
+.faq .faq-item h5 {
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 700;
+  margin: 0 0 0 0;
+  font-family: 'Poppins', sans-serif;
+}
 
 .faq .faq-item p {
   font-size: 15px;
@@ -1570,6 +1577,9 @@ section {
   }
 }
 
+.ovf {
+  overflow-inline: initial;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
